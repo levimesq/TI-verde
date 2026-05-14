@@ -5,8 +5,8 @@
 Este relatório foi gerado automaticamente a partir de um arquivo Markdown.
 
 ### 2. Modelagens Realizadas
-- [x] Configuração do Repositório
-- [x] Estrutura Taskless (Automação)
-- [x] Conversão MD -> HTML
+- [ok] Configuração do Repositório
+- [ok] Estrutura Taskless (Automação)
+- [ok] Conversão MD -> HTML
 
 > **Nota do Sistema:** O GitHub Pages detectou esta alteração e atualizou o documento.
