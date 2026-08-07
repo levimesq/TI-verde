@@ -1,12 +1,12 @@
-# Relatório de Modelagem - Projeto Prisma
-## Status: Atualizado Automaticamente via GitHub Actions
+# Tabela Periódica Acessível
 
-### 1. Descrição do Projeto
-Este relatório foi gerado automaticamente a partir de um arquivo Markdown.
+## Projeto Ceará Científico
 
-### 2. Modelagens Realizadas
-- [ok] Configuração do Repositório
-- [ok] Estrutura Taskless (Automação)
-- [ok] Conversão MD -> HTML
-    olá 3º dev.
-> **Nota do Sistema:** O GitHub Pages detectou esta alteração e atualizou o documento.
+Este repositório reúne a documentação e os materiais relacionados
+ao desenvolvimento da Tabela Periódica Acessível.
+
+O projeto propõe a construção de uma ferramenta educacional
+acessível que combina identificação tátil por Braille e
+informações sonoras sobre os elementos químicos.
+
+Para conhecer o projeto, consulte o [README](README.md).
