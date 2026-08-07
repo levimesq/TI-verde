@@ -155,7 +155,7 @@ projeto, incluindo:
 - [Daniel Saraiva]
 
 ---
-
+v
 ## Projeto
 
 **Ceará Científico**'
